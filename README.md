@@ -1,9 +1,12 @@
-### bio411
-##A startup script for module 4 of biol411
+## A startup script for module 4 of biol411
 
-#Usage:
-'''
-wget https://raw.githubusercontent.com/cdizzel/bio411/main/setup.sh
 
-bash setup.sh
-'''
+## Usage
+
+Step 1. is to pull the file down.
+
+`wget https://raw.githubusercontent.com/cdizzel/bio411/main/setup.sh`
+
+Step 2. is to run the setup script.
+
+`bash setup.sh`
